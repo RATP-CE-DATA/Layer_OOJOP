@@ -10,5 +10,5 @@ n'hésitez pas à l'adapter. Pour installer mapshaper: npm install -g mapshaper
 
 # geojson_files=$(find . -type f -name "*.geojson")
 # for f in  $geojson_files; do
-#   mapshaper "$f" -simplify 40% -o "$f" format=geojson precision=0.0001
+#   mapshaper "$f" -simplify 40% -o "$f" format=geojson precision=0.00001
 # done
