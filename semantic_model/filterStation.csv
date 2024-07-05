@@ -1,0 +1,393 @@
+CARACTERISTIC,TIME
+Gestion de flux,07:00:00
+Gestion de flux,07:30:00
+Gestion de flux,08:00:00
+Gestion de flux,08:30:00
+Gestion de flux,09:00:00
+Gestion de flux,09:30:00
+Gestion de flux,10:00:00
+Gestion de flux,10:30:00
+Gestion de flux,11:00:00
+Gestion de flux,11:30:00
+Gestion de flux,12:00:00
+Gestion de flux,12:30:00
+Gestion de flux,13:00:00
+Gestion de flux,13:30:00
+Gestion de flux,14:00:00
+Gestion de flux,14:30:00
+Gestion de flux,15:00:00
+Gestion de flux,15:30:00
+Gestion de flux,16:00:00
+Gestion de flux,16:30:00
+Gestion de flux,17:00:00
+Gestion de flux,17:30:00
+Gestion de flux,18:00:00
+Gestion de flux,18:30:00
+Gestion de flux,19:00:00
+Gestion de flux,19:30:00
+Gestion de flux,20:00:00
+Gestion de flux,20:30:00
+Gestion de flux,21:00:00
+Gestion de flux,21:30:00
+Gestion de flux,22:00:00
+Gestion de flux,22:30:00
+Gestion de flux,23:00:00
+Gestion de flux,23:30:00
+Gestion de flux,00:00:00
+Gestion de flux,00:30:00
+Gestion de flux,01:00:00
+Gestion de flux,06:00:00
+Gestion de flux,06:30:00
+Gestion de flux,01:30:00
+Gestion de flux,02:00:00
+Gestion de flux,02:30:00
+Gestion de flux,03:00:00
+Gestion de flux,03:30:00
+Gestion de flux,04:00:00
+Gestion de flux,04:30:00
+Gestion de flux,05:00:00
+Gestion de flux,05:30:00
+Gestion de flux,23:59:00
+Olympique,07:00:00
+Olympique,07:30:00
+Olympique,08:00:00
+Olympique,08:30:00
+Olympique,09:00:00
+Olympique,09:30:00
+Olympique,10:00:00
+Olympique,10:30:00
+Olympique,11:00:00
+Olympique,11:30:00
+Olympique,12:00:00
+Olympique,12:30:00
+Olympique,13:00:00
+Olympique,13:30:00
+Olympique,14:00:00
+Olympique,14:30:00
+Olympique,15:00:00
+Olympique,15:30:00
+Olympique,16:00:00
+Olympique,16:30:00
+Olympique,17:00:00
+Olympique,17:30:00
+Olympique,18:00:00
+Olympique,18:30:00
+Olympique,19:00:00
+Olympique,19:30:00
+Olympique,20:00:00
+Olympique,20:30:00
+Olympique,21:00:00
+Olympique,21:30:00
+Olympique,22:00:00
+Olympique,22:30:00
+Olympique,23:00:00
+Olympique,23:30:00
+Olympique,00:00:00
+Olympique,00:30:00
+Olympique,01:00:00
+Olympique,06:00:00
+Olympique,06:30:00
+Olympique,01:30:00
+Olympique,02:00:00
+Olympique,02:30:00
+Olympique,03:00:00
+Olympique,03:30:00
+Olympique,04:00:00
+Olympique,04:30:00
+Olympique,05:00:00
+Olympique,05:30:00
+Olympique,23:59:00
+Station fermée,07:00:00
+Station fermée,07:30:00
+Station fermée,08:00:00
+Station fermée,08:30:00
+Station fermée,09:00:00
+Station fermée,09:30:00
+Station fermée,10:00:00
+Station fermée,10:30:00
+Station fermée,11:00:00
+Station fermée,11:30:00
+Station fermée,12:00:00
+Station fermée,12:30:00
+Station fermée,13:00:00
+Station fermée,13:30:00
+Station fermée,14:00:00
+Station fermée,14:30:00
+Station fermée,15:00:00
+Station fermée,15:30:00
+Station fermée,16:00:00
+Station fermée,16:30:00
+Station fermée,17:00:00
+Station fermée,17:30:00
+Station fermée,18:00:00
+Station fermée,18:30:00
+Station fermée,19:00:00
+Station fermée,19:30:00
+Station fermée,20:00:00
+Station fermée,20:30:00
+Station fermée,21:00:00
+Station fermée,21:30:00
+Station fermée,22:00:00
+Station fermée,22:30:00
+Station fermée,23:00:00
+Station fermée,23:30:00
+Station fermée,00:00:00
+Station fermée,00:30:00
+Station fermée,01:00:00
+Station fermée,06:00:00
+Station fermée,06:30:00
+Station fermée,01:30:00
+Station fermée,02:00:00
+Station fermée,02:30:00
+Station fermée,03:00:00
+Station fermée,03:30:00
+Station fermée,04:00:00
+Station fermée,04:30:00
+Station fermée,05:00:00
+Station fermée,05:30:00
+Station fermée,23:59:00
+Gestion spécifique des accès,07:00:00
+Gestion spécifique des accès,07:30:00
+Gestion spécifique des accès,08:00:00
+Gestion spécifique des accès,08:30:00
+Gestion spécifique des accès,09:00:00
+Gestion spécifique des accès,09:30:00
+Gestion spécifique des accès,10:00:00
+Gestion spécifique des accès,10:30:00
+Gestion spécifique des accès,11:00:00
+Gestion spécifique des accès,11:30:00
+Gestion spécifique des accès,12:00:00
+Gestion spécifique des accès,12:30:00
+Gestion spécifique des accès,13:00:00
+Gestion spécifique des accès,13:30:00
+Gestion spécifique des accès,14:00:00
+Gestion spécifique des accès,14:30:00
+Gestion spécifique des accès,15:00:00
+Gestion spécifique des accès,15:30:00
+Gestion spécifique des accès,16:00:00
+Gestion spécifique des accès,16:30:00
+Gestion spécifique des accès,17:00:00
+Gestion spécifique des accès,17:30:00
+Gestion spécifique des accès,18:00:00
+Gestion spécifique des accès,18:30:00
+Gestion spécifique des accès,19:00:00
+Gestion spécifique des accès,19:30:00
+Gestion spécifique des accès,20:00:00
+Gestion spécifique des accès,20:30:00
+Gestion spécifique des accès,21:00:00
+Gestion spécifique des accès,21:30:00
+Gestion spécifique des accès,22:00:00
+Gestion spécifique des accès,22:30:00
+Gestion spécifique des accès,23:00:00
+Gestion spécifique des accès,23:30:00
+Gestion spécifique des accès,00:00:00
+Gestion spécifique des accès,00:30:00
+Gestion spécifique des accès,01:00:00
+Gestion spécifique des accès,06:00:00
+Gestion spécifique des accès,06:30:00
+Gestion spécifique des accès,01:30:00
+Gestion spécifique des accès,02:00:00
+Gestion spécifique des accès,02:30:00
+Gestion spécifique des accès,03:00:00
+Gestion spécifique des accès,03:30:00
+Gestion spécifique des accès,04:00:00
+Gestion spécifique des accès,04:30:00
+Gestion spécifique des accès,05:00:00
+Gestion spécifique des accès,05:30:00
+Gestion spécifique des accès,23:59:00
+Accueil et vente,07:00:00
+Accueil et vente,07:30:00
+Accueil et vente,08:00:00
+Accueil et vente,08:30:00
+Accueil et vente,09:00:00
+Accueil et vente,09:30:00
+Accueil et vente,10:00:00
+Accueil et vente,10:30:00
+Accueil et vente,11:00:00
+Accueil et vente,11:30:00
+Accueil et vente,12:00:00
+Accueil et vente,12:30:00
+Accueil et vente,13:00:00
+Accueil et vente,13:30:00
+Accueil et vente,14:00:00
+Accueil et vente,14:30:00
+Accueil et vente,15:00:00
+Accueil et vente,15:30:00
+Accueil et vente,16:00:00
+Accueil et vente,16:30:00
+Accueil et vente,17:00:00
+Accueil et vente,17:30:00
+Accueil et vente,18:00:00
+Accueil et vente,18:30:00
+Accueil et vente,19:00:00
+Accueil et vente,19:30:00
+Accueil et vente,20:00:00
+Accueil et vente,20:30:00
+Accueil et vente,21:00:00
+Accueil et vente,21:30:00
+Accueil et vente,22:00:00
+Accueil et vente,22:30:00
+Accueil et vente,23:00:00
+Accueil et vente,23:30:00
+Accueil et vente,00:00:00
+Accueil et vente,00:30:00
+Accueil et vente,01:00:00
+Accueil et vente,06:00:00
+Accueil et vente,06:30:00
+Accueil et vente,01:30:00
+Accueil et vente,02:00:00
+Accueil et vente,02:30:00
+Accueil et vente,03:00:00
+Accueil et vente,03:30:00
+Accueil et vente,04:00:00
+Accueil et vente,04:30:00
+Accueil et vente,05:00:00
+Accueil et vente,05:30:00
+Accueil et vente,23:59:00
+Protection Civile,07:00:00
+Protection Civile,07:30:00
+Protection Civile,08:00:00
+Protection Civile,08:30:00
+Protection Civile,09:00:00
+Protection Civile,09:30:00
+Protection Civile,10:00:00
+Protection Civile,10:30:00
+Protection Civile,11:00:00
+Protection Civile,11:30:00
+Protection Civile,12:00:00
+Protection Civile,12:30:00
+Protection Civile,13:00:00
+Protection Civile,13:30:00
+Protection Civile,14:00:00
+Protection Civile,14:30:00
+Protection Civile,15:00:00
+Protection Civile,15:30:00
+Protection Civile,16:00:00
+Protection Civile,16:30:00
+Protection Civile,17:00:00
+Protection Civile,17:30:00
+Protection Civile,18:00:00
+Protection Civile,18:30:00
+Protection Civile,19:00:00
+Protection Civile,19:30:00
+Protection Civile,20:00:00
+Protection Civile,20:30:00
+Protection Civile,21:00:00
+Protection Civile,21:30:00
+Protection Civile,22:00:00
+Protection Civile,22:30:00
+Protection Civile,23:00:00
+Protection Civile,23:30:00
+Protection Civile,00:00:00
+Protection Civile,00:30:00
+Protection Civile,01:00:00
+Protection Civile,06:00:00
+Protection Civile,06:30:00
+Protection Civile,01:30:00
+Protection Civile,02:00:00
+Protection Civile,02:30:00
+Protection Civile,03:00:00
+Protection Civile,03:30:00
+Protection Civile,04:00:00
+Protection Civile,04:30:00
+Protection Civile,05:00:00
+Protection Civile,05:30:00
+Protection Civile,23:59:00
+Fermées dans la recherche d'itinéraire,07:00:00
+Fermées dans la recherche d'itinéraire,07:30:00
+Fermées dans la recherche d'itinéraire,08:00:00
+Fermées dans la recherche d'itinéraire,08:30:00
+Fermées dans la recherche d'itinéraire,09:00:00
+Fermées dans la recherche d'itinéraire,09:30:00
+Fermées dans la recherche d'itinéraire,10:00:00
+Fermées dans la recherche d'itinéraire,10:30:00
+Fermées dans la recherche d'itinéraire,11:00:00
+Fermées dans la recherche d'itinéraire,11:30:00
+Fermées dans la recherche d'itinéraire,12:00:00
+Fermées dans la recherche d'itinéraire,12:30:00
+Fermées dans la recherche d'itinéraire,13:00:00
+Fermées dans la recherche d'itinéraire,13:30:00
+Fermées dans la recherche d'itinéraire,14:00:00
+Fermées dans la recherche d'itinéraire,14:30:00
+Fermées dans la recherche d'itinéraire,15:00:00
+Fermées dans la recherche d'itinéraire,15:30:00
+Fermées dans la recherche d'itinéraire,16:00:00
+Fermées dans la recherche d'itinéraire,16:30:00
+Fermées dans la recherche d'itinéraire,17:00:00
+Fermées dans la recherche d'itinéraire,17:30:00
+Fermées dans la recherche d'itinéraire,18:00:00
+Fermées dans la recherche d'itinéraire,18:30:00
+Fermées dans la recherche d'itinéraire,19:00:00
+Fermées dans la recherche d'itinéraire,19:30:00
+Fermées dans la recherche d'itinéraire,20:00:00
+Fermées dans la recherche d'itinéraire,20:30:00
+Fermées dans la recherche d'itinéraire,21:00:00
+Fermées dans la recherche d'itinéraire,21:30:00
+Fermées dans la recherche d'itinéraire,22:00:00
+Fermées dans la recherche d'itinéraire,22:30:00
+Fermées dans la recherche d'itinéraire,23:00:00
+Fermées dans la recherche d'itinéraire,23:30:00
+Fermées dans la recherche d'itinéraire,00:00:00
+Fermées dans la recherche d'itinéraire,00:30:00
+Fermées dans la recherche d'itinéraire,01:00:00
+Fermées dans la recherche d'itinéraire,06:00:00
+Fermées dans la recherche d'itinéraire,06:30:00
+Fermées dans la recherche d'itinéraire,01:30:00
+Fermées dans la recherche d'itinéraire,02:00:00
+Fermées dans la recherche d'itinéraire,02:30:00
+Fermées dans la recherche d'itinéraire,03:00:00
+Fermées dans la recherche d'itinéraire,03:30:00
+Fermées dans la recherche d'itinéraire,04:00:00
+Fermées dans la recherche d'itinéraire,04:30:00
+Fermées dans la recherche d'itinéraire,05:00:00
+Fermées dans la recherche d'itinéraire,05:30:00
+Fermées dans la recherche d'itinéraire,23:59:00
+Cacher les stations,07:00:00
+Cacher les stations,07:30:00
+Cacher les stations,08:00:00
+Cacher les stations,08:30:00
+Cacher les stations,09:00:00
+Cacher les stations,09:30:00
+Cacher les stations,10:00:00
+Cacher les stations,10:30:00
+Cacher les stations,11:00:00
+Cacher les stations,11:30:00
+Cacher les stations,12:00:00
+Cacher les stations,12:30:00
+Cacher les stations,13:00:00
+Cacher les stations,13:30:00
+Cacher les stations,14:00:00
+Cacher les stations,14:30:00
+Cacher les stations,15:00:00
+Cacher les stations,15:30:00
+Cacher les stations,16:00:00
+Cacher les stations,16:30:00
+Cacher les stations,17:00:00
+Cacher les stations,17:30:00
+Cacher les stations,18:00:00
+Cacher les stations,18:30:00
+Cacher les stations,19:00:00
+Cacher les stations,19:30:00
+Cacher les stations,20:00:00
+Cacher les stations,20:30:00
+Cacher les stations,21:00:00
+Cacher les stations,21:30:00
+Cacher les stations,22:00:00
+Cacher les stations,22:30:00
+Cacher les stations,23:00:00
+Cacher les stations,23:30:00
+Cacher les stations,00:00:00
+Cacher les stations,00:30:00
+Cacher les stations,01:00:00
+Cacher les stations,06:00:00
+Cacher les stations,06:30:00
+Cacher les stations,01:30:00
+Cacher les stations,02:00:00
+Cacher les stations,02:30:00
+Cacher les stations,03:00:00
+Cacher les stations,03:30:00
+Cacher les stations,04:00:00
+Cacher les stations,04:30:00
+Cacher les stations,05:00:00
+Cacher les stations,05:30:00
+Cacher les stations,23:59:00
